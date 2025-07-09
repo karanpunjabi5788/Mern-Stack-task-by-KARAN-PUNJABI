@@ -42,4 +42,4 @@ This project is the backend part of a MERN stack challenge using Node.js, Expres
 
 ---
 
-Built with ❤️ by Karan Punjabi
+Built by Karan Punjabi
